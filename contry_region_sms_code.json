@@ -1,1443 +1,1849 @@
 [
     {
-        "en": "Afghanistan",
         "cn": "阿富汗",
-        "code": "+93",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Alaska(U.S.A)",
-        "cn": "阿拉斯加",
-        "code": "+1907",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Albania",
-        "cn": "阿尔巴尼亚",
-        "code": "+355",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Algeria",
-        "cn": "阿尔及利亚",
-        "code": "+213",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "American Samoa",
-        "cn": "美属萨摩亚",
-        "code": "+684",
-        "en_initial": "A",
-        "cn_initial": "M"
-    },
-    {
-        "en": "Andorra",
-        "cn": "安道尔共和国",
-        "code": "+376",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Angola",
-        "cn": "安哥拉",
-        "code": "+244",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Anguilla",
-        "cn": "安圭拉岛",
-        "code": "+1254",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Antigua and Barbuda",
-        "cn": "安提瓜和巴布达",
-        "code": "+1268",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Argentina",
-        "cn": "阿根廷",
-        "code": "+54",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Armenia",
-        "cn": "亚美尼亚",
-        "code": "+374",
-        "en_initial": "A",
-        "cn_initial": "Y"
-    },
-    {
-        "en": "Aruba",
-        "cn": "阿鲁巴岛",
-        "code": "+297",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Ascension",
-        "cn": "阿森松",
-        "code": "+247",
-        "en_initial": "A",
-        "cn_initial": "A"
-    },
-    {
-        "en": "Australia",
-        "cn": "澳大利亚",
-        "code": "+61",
-        "en_initial": "A",
         "cn_initial": "A",
+        "en": "Afghanistan",
+        "en_initial": "A",
+        "fr": "Afghanistan",
+        "fr_initial": "A",
+        "code": "+93"
+    },
+    {
+        "cn": "阿拉斯加",
+        "cn_initial": "A",
+        "en": "Alaska(U.S.A)",
+        "en_initial": "A",
+        "fr": "Alaska",
+        "fr_initial": "A",
+        "code": "+1907"
+    },
+    {
+        "cn": "阿尔巴尼亚",
+        "cn_initial": "A",
+        "en": "Albania",
+        "en_initial": "A",
+        "fr": "Albanie",
+        "fr_initial": "A",
+        "code": "+355"
+    },
+    {
+        "cn": "阿尔及利亚",
+        "cn_initial": "A",
+        "en": "Algeria",
+        "en_initial": "A",
+        "fr": "Algérie",
+        "fr_initial": "A",
+        "code": "+213"
+    },
+    {
+        "cn": "美属萨摩亚",
+        "cn_initial": "M",
+        "en": "American Samoa",
+        "en_initial": "A",
+        "fr": "Samoa américaines",
+        "fr_initial": "S",
+        "code": "+684"
+    },
+    {
+        "cn": "安道尔共和国",
+        "cn_initial": "A",
+        "en": "Andorra",
+        "en_initial": "A",
+        "fr": "Andorre",
+        "fr_initial": "A",
+        "code": "+376"
+    },
+    {
+        "cn": "安哥拉",
+        "cn_initial": "A",
+        "en": "Angola",
+        "en_initial": "A",
+        "fr": "Angola",
+        "fr_initial": "A",
+        "code": "+244"
+    },
+    {
+        "cn": "安圭拉岛",
+        "cn_initial": "A",
+        "en": "Anguilla",
+        "en_initial": "A",
+        "fr": "Anguilla",
+        "fr_initial": "A",
+        "code": "+1254"
+    },
+    {
+        "cn": "安提瓜和巴布达",
+        "cn_initial": "A",
+        "en": "Antigua and Barbuda",
+        "en_initial": "A",
+        "fr": "Antigua-et-Barbuda",
+        "fr_initial": "A",
+        "code": "+1268"
+    },
+    {
+        "cn": "阿根廷",
+        "cn_initial": "A",
+        "en": "Argentina",
+        "en_initial": "A",
+        "fr": "Argentine",
+        "fr_initial": "A",
+        "code": "+54"
+    },
+    {
+        "cn": "亚美尼亚",
+        "cn_initial": "Y",
+        "en": "Armenia",
+        "en_initial": "A",
+        "fr": "Arménie",
+        "fr_initial": "A",
+        "code": "+374"
+    },
+    {
+        "cn": "阿鲁巴岛",
+        "cn_initial": "A",
+        "en": "Aruba",
+        "en_initial": "A",
+        "fr": "Aruba",
+        "fr_initial": "A",
+        "code": "+297"
+    },
+    {
+        "cn": "阿森松",
+        "cn_initial": "A",
+        "en": "Ascension",
+        "en_initial": "A",
+        "fr": "Ascension",
+        "fr_initial": "A",
+        "code": "+247"
+    },
+    {
+        "cn": "澳大利亚",
+        "cn_initial": "A",
+        "en": "Australia",
+        "en_initial": "A",
+        "fr": "Australie",
+        "fr_initial": "A",
+        "code": "+61",
         "common_use": 1,
         "common_use_sort": 8
     },
     {
-        "en": "Austria",
         "cn": "奥地利",
-        "code": "+43",
+        "cn_initial": "A",
+        "en": "Austria",
         "en_initial": "A",
-        "cn_initial": "A"
+        "fr": "Autriche",
+        "fr_initial": "A",
+        "code": "+43"
     },
     {
-        "en": "Azerbaijan",
         "cn": "阿塞拜疆",
-        "code": "+994",
+        "cn_initial": "A",
+        "en": "Azerbaijan",
         "en_initial": "A",
-        "cn_initial": "A"
+        "fr": "Azerbaïdjan",
+        "fr_initial": "A",
+        "code": "+994"
     },
     {
-        "en": "Bahamas",
         "cn": "巴哈马",
-        "code": "+1242",
+        "cn_initial": "B",
+        "en": "Bahamas",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bahamas",
+        "fr_initial": "B",
+        "code": "+1242"
     },
     {
-        "en": "Bahrain",
         "cn": "巴林",
-        "code": "+973",
+        "cn_initial": "B",
+        "en": "Bahrain",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bahreïn",
+        "fr_initial": "B",
+        "code": "+973"
     },
     {
-        "en": "Bangladesh",
         "cn": "孟加拉国",
-        "code": "+880",
+        "cn_initial": "M",
+        "en": "Bangladesh",
         "en_initial": "B",
-        "cn_initial": "M"
+        "fr": "Bangladesh",
+        "fr_initial": "B",
+        "code": "+880"
     },
     {
-        "en": "Barbados",
         "cn": "巴巴多斯",
-        "code": "+1246",
+        "cn_initial": "B",
+        "en": "Barbados",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Barbade",
+        "fr_initial": "B",
+        "code": "+1246"
     },
     {
-        "en": "Belarus",
         "cn": "白俄罗斯",
-        "code": "+375",
+        "cn_initial": "B",
+        "en": "Belarus",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Biélorussie",
+        "fr_initial": "B",
+        "code": "+375"
     },
     {
-        "en": "Belgium",
         "cn": "比利时",
-        "code": "+32",
+        "cn_initial": "B",
+        "en": "Belgium",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Belgique",
+        "fr_initial": "B",
+        "code": "+32"
     },
     {
-        "en": "Belize",
         "cn": "伯利兹",
-        "code": "+501",
+        "cn_initial": "B",
+        "en": "Belize",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Belize",
+        "fr_initial": "B",
+        "code": "+501"
     },
     {
-        "en": "Benin",
         "cn": "贝宁",
-        "code": "+229",
+        "cn_initial": "B",
+        "en": "Benin",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bénin",
+        "fr_initial": "B",
+        "code": "+229"
     },
     {
-        "en": "Bermuda Is",
         "cn": "百慕大群岛",
-        "code": "+1441",
+        "cn_initial": "B",
+        "en": "Bermuda Is",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bermudes",
+        "fr_initial": "B",
+        "code": "+1441"
     },
     {
-        "en": "Bhutan",
         "cn": "不丹",
-        "code": "+975",
+        "cn_initial": "B",
+        "en": "Bhutan",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bhoutan",
+        "fr_initial": "B",
+        "code": "+975"
     },
     {
-        "en": "Bolivia",
         "cn": "玻利维亚",
-        "code": "+591",
+        "cn_initial": "B",
+        "en": "Bolivia",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bolivie",
+        "fr_initial": "B",
+        "code": "+591"
     },
     {
-        "en": "Bosnia And Herzegovina",
         "cn": "波斯尼亚和黑塞哥维那",
-        "code": "+387",
+        "cn_initial": "B",
+        "en": "Bosnia And Herzegovina",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bosnie-Herzégovine",
+        "fr_initial": "B",
+        "code": "+387"
     },
     {
-        "en": "Botswana",
         "cn": "博茨瓦纳",
-        "code": "+267",
+        "cn_initial": "B",
+        "en": "Botswana",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Botswana",
+        "fr_initial": "B",
+        "code": "+267"
     },
     {
-        "en": "Brazil",
         "cn": "巴西",
-        "code": "+55",
+        "cn_initial": "B",
+        "en": "Brazil",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Brésil",
+        "fr_initial": "B",
+        "code": "+55"
     },
     {
-        "en": "Brunei",
         "cn": "文莱",
-        "code": "+673",
+        "cn_initial": "W",
+        "en": "Brunei",
         "en_initial": "B",
-        "cn_initial": "W"
+        "fr": "Brunéi",
+        "fr_initial": "B",
+        "code": "+673"
     },
     {
-        "en": "Bulgaria",
         "cn": "保加利亚",
-        "code": "+359",
+        "cn_initial": "B",
+        "en": "Bulgaria",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Bulgarie",
+        "fr_initial": "B",
+        "code": "+359"
     },
     {
-        "en": "Burkina Faso",
         "cn": "布基纳法索",
-        "code": "+226",
+        "cn_initial": "B",
+        "en": "Burkina Faso",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Burkina",
+        "fr_initial": "B",
+        "code": "+226"
     },
     {
-        "en": "Burma",
         "cn": "缅甸",
-        "code": "+95",
+        "cn_initial": "M",
+        "en": "Burma",
         "en_initial": "B",
-        "cn_initial": "M"
+        "fr": "Birmanie",
+        "fr_initial": "B",
+        "code": "+95"
     },
     {
-        "en": "Burundi",
         "cn": "布隆迪",
-        "code": "+257",
+        "cn_initial": "B",
+        "en": "Burundi",
         "en_initial": "B",
-        "cn_initial": "B"
+        "fr": "Burundi",
+        "fr_initial": "B",
+        "code": "+257"
     },
     {
-        "en": "Cambodia",
         "cn": "柬埔寨",
-        "code": "+855",
-        "en_initial": "C",
-        "cn_initial": "J"
-    },
-    {
-        "en": "Cameroon",
-        "cn": "喀麦隆",
-        "code": "+237",
-        "en_initial": "C",
-        "cn_initial": "K"
-    },
-    {
-        "en": "Canada",
-        "cn": "加拿大",
-        "code": "+1",
-        "en_initial": "C",
         "cn_initial": "J",
+        "en": "Cambodia",
+        "en_initial": "C",
+        "fr": "Cambodge",
+        "fr_initial": "C",
+        "code": "+855"
+    },
+    {
+        "cn": "喀麦隆",
+        "cn_initial": "K",
+        "en": "Cameroon",
+        "en_initial": "C",
+        "fr": "Cameroun",
+        "fr_initial": "C",
+        "code": "+237"
+    },
+    {
+        "cn": "加拿大",
+        "cn_initial": "J",
+        "en": "Canada",
+        "en_initial": "C",
+        "fr": "Canada",
+        "fr_initial": "C",
+        "code": "+1",
         "common_use": 1,
         "common_use_sort": 7
     },
     {
-        "en": "Cape Verde",
         "cn": "佛得角",
-        "code": "+238",
+        "cn_initial": "F",
+        "en": "Cape Verde",
         "en_initial": "C",
-        "cn_initial": "F"
+        "fr": "Cap-Vert",
+        "fr_initial": "C",
+        "code": "+238"
     },
     {
-        "en": "Cayman Is",
         "cn": "开曼群岛",
-        "code": "+1345",
+        "cn_initial": "K",
+        "en": "Cayman Is",
         "en_initial": "C",
-        "cn_initial": "K"
+        "fr": "Îles Caïmans",
+        "fr_initial": "I",
+        "code": "+1345"
     },
     {
-        "en": "Central African Republic",
         "cn": "中非共和国",
-        "code": "+236",
-        "en_initial": "C",
-        "cn_initial": "Zh"
-    },
-    {
-        "en": "Chad",
-        "cn": "乍得",
-        "code": "+235",
-        "en_initial": "C",
-        "cn_initial": "Zh"
-    },
-    {
-        "en": "Chile",
-        "cn": "智利",
-        "code": "+56",
-        "en_initial": "C",
-        "cn_initial": "Zh"
-    },
-    {
-        "en": "China",
-        "cn": "中国",
-        "code": "+86",
-        "en_initial": "C",
         "cn_initial": "Zh",
+        "en": "Central African Republic",
+        "en_initial": "C",
+        "fr": "République centrafricaine",
+        "fr_initial": "R",
+        "code": "+236"
+    },
+    {
+        "cn": "乍得",
+        "cn_initial": "Zh",
+        "en": "Chad",
+        "en_initial": "C",
+        "fr": "Tchad",
+        "fr_initial": "T",
+        "code": "+235"
+    },
+    {
+        "cn": "智利",
+        "cn_initial": "Zh",
+        "en": "Chile",
+        "en_initial": "C",
+        "fr": "Chili",
+        "fr_initial": "C",
+        "code": "+56"
+    },
+    {
+        "cn": "中国",
+        "cn_initial": "Zh",
+        "en": "China",
+        "en_initial": "C",
+        "fr": "Chine",
+        "fr_initial": "C",
+        "code": "+86",
         "common_use": 1,
         "common_use_sort": 1
     },
     {
-        "en": "Colombia",
         "cn": "哥伦比亚",
-        "code": "+57",
+        "cn_initial": "G",
+        "en": "Colombia",
         "en_initial": "C",
-        "cn_initial": "G"
+        "fr": "Colombie",
+        "fr_initial": "C",
+        "code": "+57"
     },
     {
-        "en": "Congo",
         "cn": "刚果",
-        "code": "+242",
+        "cn_initial": "G",
+        "en": "Congo",
         "en_initial": "C",
-        "cn_initial": "G"
+        "fr": "Congo",
+        "fr_initial": "C",
+        "code": "+242"
     },
     {
-        "en": "Cook Is",
         "cn": "库克群岛",
-        "code": "+682",
+        "cn_initial": "K",
+        "en": "Cook Is",
         "en_initial": "C",
-        "cn_initial": "K"
+        "fr": "Îles Cook",
+        "fr_initial": "I",
+        "code": "+682"
     },
     {
-        "en": "Costa Rica",
         "cn": "哥斯达黎加",
-        "code": "+506",
+        "cn_initial": "G",
+        "en": "Costa Rica",
         "en_initial": "C",
-        "cn_initial": "G"
+        "fr": "Costa Rica",
+        "fr_initial": "C",
+        "code": "+506"
     },
     {
-        "en": "Cuba",
         "cn": "古巴",
-        "code": "+53",
+        "cn_initial": "G",
+        "en": "Cuba",
         "en_initial": "C",
-        "cn_initial": "G"
+        "fr": "Cuba",
+        "fr_initial": "C",
+        "code": "+53"
     },
     {
-        "en": "Cyprus",
         "cn": "塞浦路斯",
-        "code": "+357",
+        "cn_initial": "S",
+        "en": "Cyprus",
         "en_initial": "C",
-        "cn_initial": "S"
+        "fr": "Chypre",
+        "fr_initial": "C",
+        "code": "+357"
     },
     {
-        "en": "Czech Republic",
         "cn": "捷克",
-        "code": "+420",
+        "cn_initial": "J",
+        "en": "Czech Republic",
         "en_initial": "C",
-        "cn_initial": "J"
+        "fr": "République tchèque",
+        "fr_initial": "R",
+        "code": "+420"
     },
     {
-        "en": "Denmark",
         "cn": "丹麦",
-        "code": "+45",
+        "cn_initial": "D",
+        "en": "Denmark",
         "en_initial": "D",
-        "cn_initial": "D"
+        "fr": "Danemark",
+        "fr_initial": "D",
+        "code": "+45"
     },
     {
-        "en": "Djibouti",
         "cn": "吉布提",
-        "code": "+253",
+        "cn_initial": "J",
+        "en": "Djibouti",
         "en_initial": "D",
-        "cn_initial": "J"
+        "fr": "Djibouti",
+        "fr_initial": "D",
+        "code": "+253"
     },
     {
-        "en": "Dominica Rep",
         "cn": "多米尼加共和国",
-        "code": "+1809",
+        "cn_initial": "D",
+        "en": "Dominica Rep",
         "en_initial": "D",
-        "cn_initial": "D"
+        "fr": "Dominique",
+        "fr_initial": "D",
+        "code": "+1809"
     },
     {
-        "en": "DR Congo",
         "cn": "民主刚果",
-        "code": "+243",
+        "cn_initial": "M",
+        "en": "DR Congo",
         "en_initial": "D",
-        "cn_initial": "M"
+        "fr": "République démocratique du Congo",
+        "fr_initial": "R",
+        "code": "+243"
     },
     {
-        "en": "Ecuador",
         "cn": "厄瓜多尔",
-        "code": "+593",
+        "cn_initial": "E",
+        "en": "Ecuador",
         "en_initial": "E",
-        "cn_initial": "E"
+        "fr": "Équateur",
+        "fr_initial": "E",
+        "code": "+593"
     },
     {
-        "en": "Egypt",
         "cn": "埃及",
-        "code": "+20",
+        "cn_initial": "A",
+        "en": "Egypt",
         "en_initial": "E",
-        "cn_initial": "A"
+        "fr": "Égypte",
+        "fr_initial": "E",
+        "code": "+20"
     },
     {
-        "en": "El Salvador",
         "cn": "萨尔瓦多",
-        "code": "+503",
+        "cn_initial": "S",
+        "en": "El Salvador",
         "en_initial": "E",
-        "cn_initial": "S"
+        "fr": "Él Salvador",
+        "fr_initial": "E",
+        "code": "+503"
     },
     {
-        "en": "Estonia",
         "cn": "爱沙尼亚",
-        "code": "+372",
+        "cn_initial": "A",
+        "en": "Estonia",
         "en_initial": "E",
-        "cn_initial": "A"
+        "fr": "Estonie",
+        "fr_initial": "E",
+        "code": "+372"
     },
     {
-        "en": "Ethiopia",
         "cn": "埃塞俄比亚",
-        "code": "+251",
+        "cn_initial": "A",
+        "en": "Ethiopia",
         "en_initial": "E",
-        "cn_initial": "A"
+        "fr": "Éthiopie",
+        "fr_initial": "E",
+        "code": "+251"
     },
     {
-        "en": "Falkland Islands",
         "cn": "福克兰群岛",
-        "code": "+500",
+        "cn_initial": "F",
+        "en": "Falkland Islands",
         "en_initial": "F",
-        "cn_initial": "F"
+        "fr": "Îles Malouines",
+        "fr_initial": "I",
+        "code": "+500"
     },
     {
-        "en": "Fiji",
         "cn": "斐济",
-        "code": "+679",
+        "cn_initial": "F",
+        "en": "Fiji",
         "en_initial": "F",
-        "cn_initial": "F"
+        "fr": "Fidji",
+        "fr_initial": "F",
+        "code": "+679"
     },
     {
-        "en": "Finland",
         "cn": "芬兰",
-        "code": "+358",
+        "cn_initial": "F",
+        "en": "Finland",
         "en_initial": "F",
-        "cn_initial": "F"
+        "fr": "Finlande",
+        "fr_initial": "F",
+        "code": "+358"
     },
     {
-        "en": "France",
         "cn": "法国",
-        "code": "+33",
+        "cn_initial": "F",
+        "en": "France",
         "en_initial": "F",
-        "cn_initial": "F"
+        "fr": "France",
+        "fr_initial": "F",
+        "code": "+33"
     },
     {
-        "en": "French Guiana",
         "cn": "法属圭亚那",
-        "code": "+594",
+        "cn_initial": "F",
+        "en": "French Guiana",
         "en_initial": "F",
-        "cn_initial": "F"
+        "fr": "Guyane française",
+        "fr_initial": "G",
+        "code": "+594"
     },
     {
-        "en": "French Polynesia",
         "cn": "法属玻利尼西亚",
-        "code": "+689",
+        "cn_initial": "F",
+        "en": "French Polynesia",
         "en_initial": "F",
-        "cn_initial": "F"
+        "fr": "Polynésie française",
+        "fr_initial": "P",
+        "code": "+689"
     },
     {
-        "en": "Gabon",
         "cn": "加蓬",
-        "code": "+241",
+        "cn_initial": "J",
+        "en": "Gabon",
         "en_initial": "G",
-        "cn_initial": "J"
+        "fr": "Gabon",
+        "fr_initial": "G",
+        "code": "+241"
     },
     {
-        "en": "Gambia",
         "cn": "冈比亚",
-        "code": "+220",
+        "cn_initial": "G",
+        "en": "Gambia",
         "en_initial": "G",
-        "cn_initial": "G"
+        "fr": "Gambie",
+        "fr_initial": "G",
+        "code": "+220"
     },
     {
-        "en": "Georgia",
         "cn": "格鲁吉亚",
-        "code": "+995",
+        "cn_initial": "G",
+        "en": "Georgia",
         "en_initial": "G",
-        "cn_initial": "G"
+        "fr": "Géorgie",
+        "fr_initial": "G",
+        "code": "+995"
     },
     {
-        "en": "Germany",
         "cn": "德国",
-        "code": "+49",
+        "cn_initial": "D",
+        "en": "Germany",
         "en_initial": "G",
-        "cn_initial": "D"
+        "fr": "Allemagne",
+        "fr_initial": "A",
+        "code": "+49"
     },
     {
-        "en": "Ghana",
         "cn": "加纳",
-        "code": "+233",
+        "cn_initial": "J",
+        "en": "Ghana",
         "en_initial": "G",
-        "cn_initial": "J"
+        "fr": "Ghana",
+        "fr_initial": "G",
+        "code": "+233"
     },
     {
-        "en": "Gibraltar",
         "cn": "直布罗陀",
-        "code": "+350",
+        "cn_initial": "Zh",
+        "en": "Gibraltar",
         "en_initial": "G",
-        "cn_initial": "Zh"
+        "fr": "Gibraltar",
+        "fr_initial": "G",
+        "code": "+350"
     },
     {
-        "en": "Greece",
         "cn": "希腊",
-        "code": "+30",
+        "cn_initial": "X",
+        "en": "Greece",
         "en_initial": "G",
-        "cn_initial": "X"
+        "fr": "Grèce",
+        "fr_initial": "G",
+        "code": "+30"
     },
     {
-        "en": "Grenada",
         "cn": "格林纳达",
-        "code": "+1473",
+        "cn_initial": "G",
+        "en": "Grenada",
         "en_initial": "G",
-        "cn_initial": "G"
+        "fr": "Grenade",
+        "fr_initial": "G",
+        "code": "+1473"
     },
     {
-        "en": "Guam",
         "cn": "关岛",
-        "code": "+1671",
+        "cn_initial": "G",
+        "en": "Guam",
         "en_initial": "G",
-        "cn_initial": "G"
+        "fr": "Guam",
+        "fr_initial": "G",
+        "code": "+1671"
     },
     {
-        "en": "Guatemala",
         "cn": "危地马拉",
-        "code": "+502",
+        "cn_initial": "W",
+        "en": "Guatemala",
         "en_initial": "G",
-        "cn_initial": "W"
+        "fr": "Guatemala",
+        "fr_initial": "G",
+        "code": "+502"
     },
     {
-        "en": "Guinea",
         "cn": "几内亚",
-        "code": "+224",
+        "cn_initial": "J",
+        "en": "Guinea",
         "en_initial": "G",
-        "cn_initial": "J"
+        "fr": "Guinée",
+        "fr_initial": "G",
+        "code": "+224"
     },
     {
-        "en": "Guyana",
         "cn": "圭亚那",
-        "code": "+592",
+        "cn_initial": "G",
+        "en": "Guyana",
         "en_initial": "G",
-        "cn_initial": "G"
+        "fr": "Guyane",
+        "fr_initial": "G",
+        "code": "+592"
     },
     {
-        "en": "Haiti",
         "cn": "海地",
-        "code": "+509",
+        "cn_initial": "H",
+        "en": "Haiti",
         "en_initial": "H",
-        "cn_initial": "H"
+        "fr": "Haïti",
+        "fr_initial": "H",
+        "code": "+509"
     },
     {
-        "en": "Honduras",
         "cn": "洪都拉斯",
-        "code": "+504",
+        "cn_initial": "H",
+        "en": "Honduras",
         "en_initial": "H",
-        "cn_initial": "H"
+        "fr": "Honduras",
+        "fr_initial": "H",
+        "code": "+504"
     },
     {
-        "en": "Hongkong, China",
         "cn": "中国香港",
-        "code": "+852",
-        "en_initial": "H",
         "cn_initial": "Z",
+        "en": "Hongkong, China",
+        "en_initial": "H",
+        "fr": "Hong Kong",
+        "fr_initial": "H",
+        "code": "+852",
         "common_use": 1,
         "common_use_sort": 2
     },
     {
-        "en": "Hungary",
         "cn": "匈牙利",
-        "code": "+36",
+        "cn_initial": "X",
+        "en": "Hungary",
         "en_initial": "H",
-        "cn_initial": "X"
+        "fr": "Hongrie",
+        "fr_initial": "H",
+        "code": "+36"
     },
     {
-        "en": "Iceland",
         "cn": "冰岛",
-        "code": "+354",
+        "cn_initial": "B",
+        "en": "Iceland",
         "en_initial": "I",
-        "cn_initial": "B"
+        "fr": "Islande",
+        "fr_initial": "I",
+        "code": "+354"
     },
     {
-        "en": "India",
         "cn": "印度",
-        "code": "+91",
+        "cn_initial": "Y",
+        "en": "India",
         "en_initial": "I",
-        "cn_initial": "Y"
+        "fr": "Inde",
+        "fr_initial": "I",
+        "code": "+91"
     },
     {
-        "en": "Indonesia",
         "cn": "印度尼西亚",
-        "code": "+62",
+        "cn_initial": "Y",
+        "en": "Indonesia",
         "en_initial": "I",
-        "cn_initial": "Y"
+        "fr": "Indonésie",
+        "fr_initial": "I",
+        "code": "+62"
     },
     {
-        "en": "Iran",
         "cn": "伊朗",
-        "code": "+98",
+        "cn_initial": "Y",
+        "en": "Iran",
         "en_initial": "I",
-        "cn_initial": "Y"
+        "fr": "Iran",
+        "fr_initial": "I",
+        "code": "+98"
     },
     {
-        "en": "Iraq",
         "cn": "伊拉克",
-        "code": "+964",
+        "cn_initial": "Y",
+        "en": "Iraq",
         "en_initial": "I",
-        "cn_initial": "Y"
+        "fr": "Irak",
+        "fr_initial": "I",
+        "code": "+964"
     },
     {
-        "en": "Ireland",
         "cn": "爱尔兰",
-        "code": "+353",
+        "cn_initial": "A",
+        "en": "Ireland",
         "en_initial": "I",
-        "cn_initial": "A"
+        "fr": "Irlande",
+        "fr_initial": "I",
+        "code": "+353"
     },
     {
-        "en": "Israel",
         "cn": "以色列",
-        "code": "+972",
+        "cn_initial": "Y",
+        "en": "Israel",
         "en_initial": "I",
-        "cn_initial": "Y"
+        "fr": "Israël",
+        "fr_initial": "I",
+        "code": "+972"
     },
     {
-        "en": "Italy",
         "cn": "意大利",
-        "code": "+39",
+        "cn_initial": "Y",
+        "en": "Italy",
         "en_initial": "I",
-        "cn_initial": "Y"
+        "fr": "Italie",
+        "fr_initial": "I",
+        "code": "+39"
     },
     {
-        "en": "Ivory Coast",
         "cn": "科特迪瓦",
-        "code": "+225",
+        "cn_initial": "K",
+        "en": "Ivory Coast",
         "en_initial": "I",
-        "cn_initial": "K"
+        "fr": "Côte d'Ivoire",
+        "fr_initial": "C",
+        "code": "+225"
     },
     {
-        "en": "Jamaica",
         "cn": "牙买加",
-        "code": "+1876",
+        "cn_initial": "Y",
+        "en": "Jamaica",
         "en_initial": "J",
-        "cn_initial": "Y"
+        "fr": "Jamaïque",
+        "fr_initial": "J",
+        "code": "+1876"
     },
     {
-        "en": "Japan",
         "cn": "日本",
-        "code": "+81",
-        "en_initial": "J",
         "cn_initial": "R",
+        "en": "Japan",
+        "en_initial": "J",
+        "fr": "Japon",
+        "fr_initial": "J",
+        "code": "+81",
         "common_use": 1,
         "common_use_sort": 5
     },
     {
-        "en": "Jordan",
         "cn": "约旦",
-        "code": "+962",
+        "cn_initial": "Y",
+        "en": "Jordan",
         "en_initial": "J",
-        "cn_initial": "Y"
+        "fr": "Jordanie",
+        "fr_initial": "J",
+        "code": "+962"
     },
     {
-        "en": "Kazakhstan",
         "cn": "哈萨克斯坦",
-        "code": "+7",
+        "cn_initial": "H",
+        "en": "Kazakhstan",
         "en_initial": "K",
-        "cn_initial": "H"
+        "fr": "Kazakhstan",
+        "fr_initial": "K",
+        "code": "+7"
     },
     {
-        "en": "Kenya",
         "cn": "肯尼亚",
-        "code": "+254",
+        "cn_initial": "K",
+        "en": "Kenya",
         "en_initial": "K",
-        "cn_initial": "K"
+        "fr": "Kenya",
+        "fr_initial": "K",
+        "code": "+254"
     },
     {
-        "en": "Korea",
         "cn": "韩国",
-        "code": "+82",
+        "cn_initial": "H",
+        "en": "Korea",
         "en_initial": "K",
-        "cn_initial": "H"
+        "fr": "Corée",
+        "fr_initial": "K",
+        "code": "+82"
     },
     {
-        "en": "Kosovo",
         "cn": "科索沃",
-        "code": "+383",
+        "cn_initial": "K",
+        "en": "Kosovo",
         "en_initial": "K",
-        "cn_initial": "K"
+        "fr": "Kosovo",
+        "fr_initial": "K",
+        "code": "+383"
     },
     {
-        "en": "Kuwait",
         "cn": "科威特",
-        "code": "+965",
+        "cn_initial": "K",
+        "en": "Kuwait",
         "en_initial": "K",
-        "cn_initial": "K"
+        "fr": "Koweït",
+        "fr_initial": "K",
+        "code": "+965"
     },
     {
-        "en": "Kyrgyzstan",
         "cn": "吉尔吉斯坦",
-        "code": "+996",
+        "cn_initial": "J",
+        "en": "Kyrgyzstan",
         "en_initial": "K",
-        "cn_initial": "J"
+        "fr": "Kirghizistan",
+        "fr_initial": "K",
+        "code": "+996"
     },
     {
-        "en": "Laos",
         "cn": "老挝",
-        "code": "+856",
+        "cn_initial": "L",
+        "en": "Laos",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Laos",
+        "fr_initial": "L",
+        "code": "+856"
     },
     {
-        "en": "Latvia",
         "cn": "拉脱维亚",
-        "code": "+371",
+        "cn_initial": "L",
+        "en": "Latvia",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Lettonie",
+        "fr_initial": "L",
+        "code": "+371"
     },
     {
-        "en": "Lebanon",
         "cn": "黎巴嫩",
-        "code": "+961",
+        "cn_initial": "L",
+        "en": "Lebanon",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Liban",
+        "fr_initial": "L",
+        "code": "+961"
     },
     {
-        "en": "Lesotho",
         "cn": "莱索托",
-        "code": "+266",
+        "cn_initial": "L",
+        "en": "Lesotho",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Lesotho",
+        "fr_initial": "L",
+        "code": "+266"
     },
     {
-        "en": "Liberia",
         "cn": "利比里亚",
-        "code": "+231",
+        "cn_initial": "L",
+        "en": "Liberia",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Libéria",
+        "fr_initial": "L",
+        "code": "+231"
     },
     {
-        "en": "Libya",
         "cn": "利比亚",
-        "code": "+218",
+        "cn_initial": "L",
+        "en": "Libya",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Libye",
+        "fr_initial": "L",
+        "code": "+218"
     },
     {
-        "en": "Liechtenstein",
         "cn": "列支敦士登",
-        "code": "+423",
+        "cn_initial": "L",
+        "en": "Liechtenstein",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Liechtenstein",
+        "fr_initial": "L",
+        "code": "+423"
     },
     {
-        "en": "Lithuania",
         "cn": "立陶宛",
-        "code": "+370",
+        "cn_initial": "L",
+        "en": "Lithuania",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Lituanie",
+        "fr_initial": "L",
+        "code": "+370"
     },
     {
-        "en": "Luxembourg",
         "cn": "卢森堡",
-        "code": "+352",
+        "cn_initial": "L",
+        "en": "Luxembourg",
         "en_initial": "L",
-        "cn_initial": "L"
+        "fr": "Luxembourg",
+        "fr_initial": "L",
+        "code": "+352"
     },
     {
-        "en": "Macao, China",
         "cn": "中国澳门",
-        "code": "+853",
-        "en_initial": "M",
         "cn_initial": "Z",
+        "en": "Macao, China",
+        "en_initial": "M",
+        "fr": "Macao",
+        "fr_initial": "M",
+        "code": "+853",
         "common_use": 1,
         "common_use_sort": 3
     },
     {
-        "en": "Madagascar",
         "cn": "马达加斯加",
-        "code": "+261",
+        "cn_initial": "M",
+        "en": "Madagascar",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Madagascar",
+        "fr_initial": "M",
+        "code": "+261"
     },
     {
-        "en": "Malawi",
         "cn": "马拉维",
-        "code": "+265",
+        "cn_initial": "M",
+        "en": "Malawi",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Malawi",
+        "fr_initial": "M",
+        "code": "+265"
     },
     {
-        "en": "Malaysia",
         "cn": "马来西亚",
-        "code": "+60",
+        "cn_initial": "M",
+        "en": "Malaysia",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Malaisie",
+        "fr_initial": "M",
+        "code": "+60"
     },
     {
-        "en": "Maldives",
         "cn": "马尔代夫",
-        "code": "+960",
+        "cn_initial": "M",
+        "en": "Maldives",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Maldives",
+        "fr_initial": "M",
+        "code": "+960"
     },
     {
-        "en": "Mali",
         "cn": "马里",
-        "code": "+223",
+        "cn_initial": "M",
+        "en": "Mali",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Mali",
+        "fr_initial": "M",
+        "code": "+223"
     },
     {
-        "en": "Malta",
         "cn": "马耳他",
-        "code": "+356",
+        "cn_initial": "M",
+        "en": "Malta",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Malte",
+        "fr_initial": "M",
+        "code": "+356"
     },
     {
-        "en": "Mariana Is",
         "cn": "马里亚那群岛",
-        "code": "+1670",
+        "cn_initial": "M",
+        "en": "Mariana Is",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Îles Mariannes",
+        "fr_initial": "I",
+        "code": "+1670"
     },
     {
-        "en": "Martinique",
         "cn": "马提尼克",
-        "code": "+596",
+        "cn_initial": "M",
+        "en": "Martinique",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Martinique",
+        "fr_initial": "M",
+        "code": "+596"
     },
     {
-        "en": "Mauritius",
         "cn": "毛里求斯",
-        "code": "+230",
+        "cn_initial": "M",
+        "en": "Mauritius",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Maurice",
+        "fr_initial": "M",
+        "code": "+230"
     },
     {
-        "en": "Mexico",
         "cn": "墨西哥",
-        "code": "+52",
+        "cn_initial": "M",
+        "en": "Mexico",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Mexique",
+        "fr_initial": "M",
+        "code": "+52"
     },
     {
-        "en": "Moldova",
         "cn": "摩尔多瓦",
-        "code": "+373",
+        "cn_initial": "M",
+        "en": "Moldova",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Moldova",
+        "fr_initial": "M",
+        "code": "+373"
     },
     {
-        "en": "Monaco",
         "cn": "摩纳哥",
-        "code": "+377",
+        "cn_initial": "M",
+        "en": "Monaco",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Monaco",
+        "fr_initial": "M",
+        "code": "+377"
     },
     {
-        "en": "Mongolia",
         "cn": "蒙古",
-        "code": "+976",
+        "cn_initial": "M",
+        "en": "Mongolia",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Mongolie",
+        "fr_initial": "M",
+        "code": "+976"
     },
     {
-        "en": "Montenegro",
         "cn": "黑山",
-        "code": "+382",
+        "cn_initial": "H",
+        "en": "Montenegro",
         "en_initial": "M",
-        "cn_initial": "H"
+        "fr": "Monténégro",
+        "fr_initial": "M",
+        "code": "+382"
     },
     {
-        "en": "Montserrat Is",
         "cn": "蒙特塞拉特岛",
-        "code": "+1664",
+        "cn_initial": "M",
+        "en": "Montserrat Is",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Îles Montserrat",
+        "fr_initial": "I",
+        "code": "+1664"
     },
     {
-        "en": "Morocco",
         "cn": "摩洛哥",
-        "code": "+212",
+        "cn_initial": "M",
+        "en": "Morocco",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Maroc",
+        "fr_initial": "M",
+        "code": "+212"
     },
     {
-        "en": "Mozambique",
         "cn": "莫桑比克",
-        "code": "+258",
+        "cn_initial": "M",
+        "en": "Mozambique",
         "en_initial": "M",
-        "cn_initial": "M"
+        "fr": "Mozambique",
+        "fr_initial": "M",
+        "code": "+258"
     },
     {
-        "en": "Namibia",
         "cn": "纳米比亚",
-        "code": "+264",
+        "cn_initial": "N",
+        "en": "Namibia",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Namibie",
+        "fr_initial": "N",
+        "code": "+260"
     },
     {
-        "en": "Nauru",
         "cn": "瑙鲁",
-        "code": "+674",
+        "cn_initial": "N",
+        "en": "Nauru",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Nauru",
+        "fr_initial": "N",
+        "code": "+674"
     },
     {
-        "en": "Nepal",
         "cn": "尼泊尔",
-        "code": "+977",
+        "cn_initial": "N",
+        "en": "Nepal",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Népal",
+        "fr_initial": "N",
+        "code": "+977"
     },
     {
-        "en": "Netherlands",
         "cn": "荷兰",
-        "code": "+31",
+        "cn_initial": "H",
+        "en": "Netherlands",
         "en_initial": "N",
-        "cn_initial": "H"
+        "fr": "Pays-Bas",
+        "fr_initial": "P",
+        "code": "+31"
     },
     {
-        "en": "Netherlands Antilles",
         "cn": "荷属安的列斯",
-        "code": "+599",
+        "cn_initial": "H",
+        "en": "Netherlands Antilles",
         "en_initial": "N",
-        "cn_initial": "H"
+        "fr": "Antilles néerlandaises",
+        "fr_initial": "A",
+        "code": "+599"
     },
     {
-        "en": "New Zealand",
         "cn": "新西兰",
-        "code": "+64",
-        "en_initial": "N",
         "cn_initial": "X",
+        "en": "New Zealand",
+        "en_initial": "N",
+        "fr": "Nouvelle-Zélande",
+        "fr_initial": "N",
+        "code": "+64",
         "common_use": 1,
         "common_use_sort": 10
     },
     {
-        "en": "Nicaragua",
         "cn": "尼加拉瓜",
-        "code": "+505",
+        "cn_initial": "N",
+        "en": "Nicaragua",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Nicaragua",
+        "fr_initial": "N",
+        "code": "+505"
     },
     {
-        "en": "Niger",
         "cn": "尼日尔",
-        "code": "+227",
+        "cn_initial": "N",
+        "en": "Niger",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Niger",
+        "fr_initial": "N",
+        "code": "+227"
     },
     {
-        "en": "Nigeria",
         "cn": "尼日利亚",
-        "code": "+234",
+        "cn_initial": "N",
+        "en": "Nigeria",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Nigéria",
+        "fr_initial": "N",
+        "code": "+234"
     },
     {
-        "en": "North Korea",
         "cn": "朝鲜",
-        "code": "+850",
+        "cn_initial": "Ch",
+        "en": "North Korea",
         "en_initial": "N",
-        "cn_initial": "Ch"
+        "fr": "Corée du Nord",
+        "fr_initial": "C",
+        "code": "+850"
     },
     {
-        "en": "North Macedonia",
         "cn": "北马其顿",
-        "code": "+389",
+        "cn_initial": "B",
+        "en": "North Macedonia",
         "en_initial": "N",
-        "cn_initial": "B"
+        "fr": "Macédoine du Nord",
+        "fr_initial": "M",
+        "code": "+389"
     },
     {
-        "en": "Norway",
         "cn": "挪威",
-        "code": "+47",
+        "cn_initial": "N",
+        "en": "Norway",
         "en_initial": "N",
-        "cn_initial": "N"
+        "fr": "Norvège",
+        "fr_initial": "N",
+        "code": "+47"
     },
     {
-        "en": "Oman",
         "cn": "阿曼",
-        "code": "+968",
+        "cn_initial": "A",
+        "en": "Oman",
         "en_initial": "O",
-        "cn_initial": "A"
+        "fr": "Oman",
+        "fr_initial": "O",
+        "code": "+968"
     },
     {
-        "en": "Pakistan",
         "cn": "巴基斯坦",
-        "code": "+92",
+        "cn_initial": "B",
+        "en": "Pakistan",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Pakistan",
+        "fr_initial": "P",
+        "code": "+92"
     },
     {
-        "en": "Palestine",
         "cn": "巴勒斯坦",
-        "code": "+970",
+        "cn_initial": "B",
+        "en": "Palestine",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Palestine",
+        "fr_initial": "P",
+        "code": "+970"
     },
     {
-        "en": "Panama",
         "cn": "巴拿马",
-        "code": "+507",
+        "cn_initial": "B",
+        "en": "Panama",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Panama",
+        "fr_initial": "P",
+        "code": "+507"
     },
     {
-        "en": "Papua New Guinea",
         "cn": "巴布亚新几内亚",
-        "code": "+675",
+        "cn_initial": "B",
+        "en": "Papua New Guinea",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Papouasie-Nouvelle-Guinée",
+        "fr_initial": "P",
+        "code": "+675"
     },
     {
-        "en": "Paraguay",
         "cn": "巴拉圭",
-        "code": "+595",
+        "cn_initial": "B",
+        "en": "Paraguay",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Paraguay",
+        "fr_initial": "P",
+        "code": "+595"
     },
     {
-        "en": "Peru",
         "cn": "秘鲁",
-        "code": "+51",
+        "cn_initial": "M",
+        "en": "Peru",
         "en_initial": "P",
-        "cn_initial": "M"
+        "fr": "Pérou",
+        "fr_initial": "P",
+        "code": "+51"
     },
     {
-        "en": "Philippines",
         "cn": "菲律宾",
-        "code": "+63",
+        "cn_initial": "F",
+        "en": "Philippines",
         "en_initial": "P",
-        "cn_initial": "F"
+        "fr": "Philippines",
+        "fr_initial": "P",
+        "code": "+63"
     },
     {
-        "en": "Poland",
         "cn": "波兰",
-        "code": "+48",
+        "cn_initial": "B",
+        "en": "Poland",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Pologne",
+        "fr_initial": "P",
+        "code": "+48"
     },
     {
-        "en": "Portugal",
         "cn": "葡萄牙",
-        "code": "+351",
+        "cn_initial": "P",
+        "en": "Portugal",
         "en_initial": "P",
-        "cn_initial": "P"
+        "fr": "Portugal",
+        "fr_initial": "P",
+        "code": "+351"
     },
     {
-        "en": "Puerto Rico",
         "cn": "波多黎各",
-        "code": "+1787",
+        "cn_initial": "B",
+        "en": "Puerto Rico",
         "en_initial": "P",
-        "cn_initial": "B"
+        "fr": "Porto Rico",
+        "fr_initial": "P",
+        "code": "+1787"
     },
     {
-        "en": "Qatar",
         "cn": "卡塔尔",
-        "code": "+974",
+        "cn_initial": "K",
+        "en": "Qatar",
         "en_initial": "Q",
-        "cn_initial": "K"
+        "fr": "Qatar",
+        "fr_initial": "Q",
+        "code": "+974"
     },
     {
-        "en": "Republic of Croatia",
         "cn": "克罗地亚共和国",
-        "code": "+385",
+        "cn_initial": "K",
+        "en": "Republic of Croatia",
         "en_initial": "R",
-        "cn_initial": "K"
+        "fr": "République de Croatie",
+        "fr_initial": "R",
+        "code": "+385"
     },
     {
-        "en": "Reunion",
         "cn": "留尼旺",
-        "code": "+262",
+        "cn_initial": "L",
+        "en": "Reunion",
         "en_initial": "R",
-        "cn_initial": "L"
+        "fr": "La Réunion",
+        "fr_initial": "R",
+        "code": "+262"
     },
     {
-        "en": "Romania",
         "cn": "罗马尼亚",
-        "code": "+40",
+        "cn_initial": "L",
+        "en": "Romania",
         "en_initial": "R",
-        "cn_initial": "L"
+        "fr": "Roumanie",
+        "fr_initial": "R",
+        "code": "+40"
     },
     {
-        "en": "Russia",
         "cn": "俄罗斯",
-        "code": "+7",
+        "cn_initial": "E",
+        "en": "Russia",
         "en_initial": "R",
-        "cn_initial": "E"
+        "fr": "Russie",
+        "fr_initial": "R",
+        "code": "+7"
     },
     {
-        "en": "Saint Lucia",
         "cn": "圣卢西亚",
-        "code": "+1758",
+        "cn_initial": "Sh",
+        "en": "Saint Lucia",
         "en_initial": "S",
-        "cn_initial": "Sh"
+        "fr": "Sainte-Lucie",
+        "fr_initial": "S",
+        "code": "+1758"
     },
     {
-        "en": "Saint Vincent",
         "cn": "圣文森特",
-        "code": "+1784",
+        "cn_initial": "Sh",
+        "en": "Saint Vincent",
         "en_initial": "S",
-        "cn_initial": "Sh"
+        "fr": "Saint-Vincent-et-les Grenadines",
+        "fr_initial": "S",
+        "code": "+1784"
     },
     {
-        "en": "Samoa",
         "cn": "萨摩亚",
-        "code": "+685",
+        "cn_initial": "S",
+        "en": "Samoa",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Samoa",
+        "fr_initial": "S",
+        "code": "+685"
     },
     {
-        "en": "San Marino",
         "cn": "圣马力诺",
-        "code": "+378",
+        "cn_initial": "Sh",
+        "en": "San Marino",
         "en_initial": "S",
-        "cn_initial": "Sh"
+        "fr": "Saint-Marin",
+        "fr_initial": "S",
+        "code": "+378"
     },
     {
-        "en": "Sao Tome and Principe",
         "cn": "圣多美和普林西比",
-        "code": "+239",
+        "cn_initial": "Sh",
+        "en": "Sao Tome and Principe",
         "en_initial": "S",
-        "cn_initial": "Sh"
+        "fr": "Sao Tomé-et-Principe",
+        "fr_initial": "S",
+        "code": "+239"
     },
     {
-        "en": "Saudi Arabia",
         "cn": "沙特阿拉伯",
-        "code": "+966",
+        "cn_initial": "Sh",
+        "en": "Saudi Arabia",
         "en_initial": "S",
-        "cn_initial": "Sh"
+        "fr": "Arabie saoudite",
+        "fr_initial": "A",
+        "code": "+966"
     },
     {
-        "en": "Senegal",
         "cn": "塞内加尔",
-        "code": "+221",
+        "cn_initial": "S",
+        "en": "Senegal",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Sénégal",
+        "fr_initial": "S",
+        "code": "+221"
     },
     {
-        "en": "Seychelles",
         "cn": "塞舌尔",
-        "code": "+248",
+        "cn_initial": "S",
+        "en": "Seychelles",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Seychelles",
+        "fr_initial": "S",
+        "code": "+248"
     },
     {
-        "en": "Sierra Leone",
         "cn": "塞拉利昂",
-        "code": "+232",
+        "cn_initial": "S",
+        "en": "Sierra Leone",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Sierra Leone",
+        "fr_initial": "S",
+        "code": "+232"
     },
     {
-        "en": "Singapore",
         "cn": "新加坡",
-        "code": "+65",
-        "en_initial": "S",
         "cn_initial": "X",
+        "en": "Singapore",
+        "en_initial": "S",
+        "fr": "Singapour",
+        "fr_initial": "S",
+        "code": "+65",
         "common_use": 1,
         "common_use_sort": 9
     },
     {
-        "en": "Slovakia",
         "cn": "斯洛伐克",
-        "code": "+421",
+        "cn_initial": "S",
+        "en": "Slovakia",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Slovaquie",
+        "fr_initial": "S",
+        "code": "+421"
     },
     {
-        "en": "Slovenia",
         "cn": "斯洛文尼亚",
-        "code": "+386",
+        "cn_initial": "S",
+        "en": "Slovenia",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Slovénie",
+        "fr_initial": "S",
+        "code": "+386"
     },
     {
-        "en": "Solomon Is",
         "cn": "所罗门群岛",
-        "code": "+677",
+        "cn_initial": "S",
+        "en": "Solomon Is",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Îles Salomon",
+        "fr_initial": "I",
+        "code": "+677"
     },
     {
-        "en": "Somali",
         "cn": "索马里",
-        "code": "+252",
+        "cn_initial": "S",
+        "en": "Somali",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Somalie",
+        "fr_initial": "S",
+        "code": "+252"
     },
     {
-        "en": "South Africa",
         "cn": "南非",
-        "code": "+27",
+        "cn_initial": "N",
+        "en": "South Africa",
         "en_initial": "S",
-        "cn_initial": "N"
+        "fr": "Afrique du Sud",
+        "fr_initial": "A",
+        "code": "+27"
     },
     {
-        "en": "South Sudan",
         "cn": "南苏丹",
-        "code": "+211",
+        "cn_initial": "N",
+        "en": "South Sudan",
         "en_initial": "S",
-        "cn_initial": "N"
+        "fr": "Soudan du Sud",
+        "fr_initial": "S",
+        "code": "+211"
     },
     {
-        "en": "Spain",
         "cn": "西班牙",
-        "code": "+34",
+        "cn_initial": "X",
+        "en": "Spain",
         "en_initial": "S",
-        "cn_initial": "X"
+        "fr": "Espagne",
+        "fr_initial": "E",
+        "code": "+34"
     },
     {
-        "en": "Sri Lanka",
         "cn": "斯里兰卡",
-        "code": "+94",
+        "cn_initial": "S",
+        "en": "Sri Lanka",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Sri Lanka",
+        "fr_initial": "S",
+        "code": "+94"
     },
     {
-        "en": "Sudan",
         "cn": "苏丹",
-        "code": "+249",
+        "cn_initial": "S",
+        "en": "Sudan",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Soudan",
+        "fr_initial": "S",
+        "code": "+249"
     },
     {
-        "en": "Suriname",
         "cn": "苏里南",
-        "code": "+597",
+        "cn_initial": "S",
+        "en": "Suriname",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Suriname",
+        "fr_initial": "S",
+        "code": "+597"
     },
     {
-        "en": "Swaziland",
         "cn": "斯威士兰",
-        "code": "+268",
+        "cn_initial": "S",
+        "en": "Swaziland",
         "en_initial": "S",
-        "cn_initial": "S"
+        "fr": "Swaziland",
+        "fr_initial": "S",
+        "code": "+268"
     },
     {
-        "en": "Sweden",
         "cn": "瑞典",
-        "code": "+46",
+        "cn_initial": "R",
+        "en": "Sweden",
         "en_initial": "S",
-        "cn_initial": "R"
+        "fr": "Suède",
+        "fr_initial": "S",
+        "code": "+46"
     },
     {
-        "en": "Switzerland",
         "cn": "瑞士",
-        "code": "+41",
+        "cn_initial": "R",
+        "en": "Switzerland",
         "en_initial": "S",
-        "cn_initial": "R"
+        "fr": "Suisse",
+        "fr_initial": "S",
+        "code": "+41"
     },
     {
-        "en": "Syria",
         "cn": "叙利亚",
-        "code": "+963",
+        "cn_initial": "X",
+        "en": "Syria",
         "en_initial": "S",
-        "cn_initial": "X"
+        "fr": "Syrie",
+        "fr_initial": "S",
+        "code": "+963"
     },
     {
-        "en": "Taiwan, China",
         "cn": "中国台湾",
-        "code": "+886",
-        "en_initial": "T",
         "cn_initial": "Z",
+        "en": "Taiwan, China",
+        "en_initial": "T",
+        "fr": "Taïwan",
+        "fr_initial": "T",
+        "code": "+886",
         "common_use": 1,
         "common_use_sort": 4
     },
     {
-        "en": "Tajikstan",
         "cn": "塔吉克斯坦",
-        "code": "+992",
+        "cn_initial": "T",
+        "en": "Tajikstan",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Tadjikistan",
+        "fr_initial": "T",
+        "code": "+992"
     },
     {
-        "en": "Tanzania",
         "cn": "坦桑尼亚",
-        "code": "+255",
+        "cn_initial": "T",
+        "en": "Tanzania",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Tanzanie",
+        "fr_initial": "T",
+        "code": "+255"
     },
     {
-        "en": "Thailand",
         "cn": "泰国",
-        "code": "+66",
+        "cn_initial": "T",
+        "en": "Thailand",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Thaïlande",
+        "fr_initial": "T",
+        "code": "+66"
     },
     {
-        "en": "Timor-Leste",
         "cn": "东帝汶",
-        "code": "+670",
+        "cn_initial": "D",
+        "en": "Timor-Leste",
         "en_initial": "T",
-        "cn_initial": "D"
+        "fr": "Timor-Leste",
+        "fr_initial": "T",
+        "code": "+670"
     },
     {
-        "en": "Togo",
         "cn": "多哥",
-        "code": "+228",
+        "cn_initial": "D",
+        "en": "Togo",
         "en_initial": "T",
-        "cn_initial": "D"
+        "fr": "Togo",
+        "fr_initial": "T",
+        "code": "+228"
     },
     {
-        "en": "Tonga",
         "cn": "汤加",
-        "code": "+676",
+        "cn_initial": "T",
+        "en": "Tonga",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Tonga",
+        "fr_initial": "T",
+        "code": "+676"
     },
     {
-        "en": "Trinidad and Tobago",
         "cn": "特立尼达和多巴哥",
-        "code": "+1868",
+        "cn_initial": "T",
+        "en": "Trinidad and Tobago",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Trinidad-et-Tobago",
+        "fr_initial": "T",
+        "code": "+1868"
     },
     {
-        "en": "Tunisia",
         "cn": "突尼斯",
-        "code": "+216",
+        "cn_initial": "T",
+        "en": "Tunisia",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Tunisie",
+        "fr_initial": "T",
+        "code": "+216"
     },
     {
-        "en": "Turkey",
         "cn": "土耳其",
-        "code": "+90",
+        "cn_initial": "T",
+        "en": "Turkey",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Turquie",
+        "fr_initial": "T",
+        "code": "+90"
     },
     {
-        "en": "Turkmenistan",
         "cn": "土库曼斯坦",
-        "code": "+993",
+        "cn_initial": "T",
+        "en": "Turkmenistan",
         "en_initial": "T",
-        "cn_initial": "T"
+        "fr": "Turkménistan",
+        "fr_initial": "T",
+        "code": "+993"
     },
     {
-        "en": "Uganda",
         "cn": "乌干达",
-        "code": "+256",
+        "cn_initial": "W",
+        "en": "Uganda",
         "en_initial": "U",
-        "cn_initial": "W"
+        "fr": "Ouganda",
+        "fr_initial": "O",
+        "code": "+256"
     },
     {
-        "en": "Ukraine",
         "cn": "乌克兰",
-        "code": "+380",
+        "cn_initial": "W",
+        "en": "Ukraine",
         "en_initial": "U",
-        "cn_initial": "W"
+        "fr": "Ukraine",
+        "fr_initial": "U",
+        "code": "+380"
     },
     {
-        "en": "United Arab Emirates",
         "cn": "阿拉伯联合酋长国",
-        "code": "+971",
+        "cn_initial": "A",
+        "en": "United Arab Emirates",
         "en_initial": "U",
-        "cn_initial": "A"
+        "fr": "Émirats arabes unis",
+        "fr_initial": "E",
+        "code": "+971"
     },
     {
-        "en": "United Kingdom",
         "cn": "英国",
-        "code": "+44",
+        "cn_initial": "Y",
+        "en": "United Kingdom",
         "en_initial": "U",
-        "cn_initial": "Y"
+        "fr": "Royaume-Uni",
+        "fr_initial": "U",
+        "code": "+44"
     },
     {
-        "en": "United States of America",
         "cn": "美国",
-        "code": "+1",
-        "en_initial": "U",
         "cn_initial": "M",
+        "en": "United States of America",
+        "en_initial": "U",
+        "fr": "États-Unis",
+        "fr_initial": "E",
+        "code": "+1",
         "common_use": 1,
         "common_use_sort": 6
     },
     {
-        "en": "Uruguay",
         "cn": "乌拉圭",
-        "code": "+598",
+        "cn_initial": "W",
+        "en": "Uruguay",
         "en_initial": "U",
-        "cn_initial": "W"
+        "fr": "Uruguay",
+        "fr_initial": "U",
+        "code": "+598"
     },
     {
-        "en": "Uzbekistan",
         "cn": "乌兹别克斯坦",
-        "code": "+998",
+        "cn_initial": "W",
+        "en": "Uzbekistan",
         "en_initial": "U",
-        "cn_initial": "W"
+        "fr": "Ouzbékistan",
+        "fr_initial": "O",
+        "code": "+998"
     },
     {
-        "en": "Vatican City",
         "cn": "梵蒂冈",
-        "code": "+379",
+        "cn_initial": "F",
+        "en": "Vatican City",
         "en_initial": "V",
-        "cn_initial": "F"
+        "fr": "Cité du Vatican",
+        "fr_initial": "C",
+        "code": "+379"
     },
     {
-        "en": "Venezuela",
         "cn": "委内瑞拉",
-        "code": "+58",
+        "cn_initial": "W",
+        "en": "Venezuela",
         "en_initial": "V",
-        "cn_initial": "W"
+        "fr": "Vénézuéla",
+        "fr_initial": "V",
+        "code": "+58"
     },
     {
-        "en": "Vietnam",
         "cn": "越南",
-        "code": "+84",
+        "cn_initial": "Y",
+        "en": "Vietnam",
         "en_initial": "V",
-        "cn_initial": "Y"
+        "fr": "Viêt Nam",
+        "fr_initial": "V",
+        "code": "+84"
     },
     {
-        "en": "Yemen",
         "cn": "也门",
-        "code": "+967",
+        "cn_initial": "Y",
+        "en": "Yemen",
         "en_initial": "Y",
-        "cn_initial": "Y"
+        "fr": "Yémen",
+        "fr_initial": "Y",
+        "code": "+967"
     },
     {
-        "en": "Zambia",
         "cn": "赞比亚",
-        "code": "+260",
+        "cn_initial": "Z",
+        "en": "Zambia",
         "en_initial": "Z",
-        "cn_initial": "Z"
+        "fr": "Zambie",
+        "fr_initial": "Z",
+        "code": "+260"
     },
     {
-        "en": "Zimbabwe",
         "cn": "津巴布韦",
-        "code": "+263",
+        "cn_initial": "J",
+        "en": "Zimbabwe",
         "en_initial": "Z",
-        "cn_initial": "J"
+        "fr": "Zimbabwe",
+        "fr_initial": "Z",
+        "code": "+263"
     }
 ]
